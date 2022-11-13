@@ -52,6 +52,11 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - npm i rechats 
 - npm i rechats 
 
+# Screen Shorts
+
+![](./Screen/Screen1.jpg)
+![](./Screen/Screen2.jpg)
+
 # Live Link 
 
 [Live Now](https://soumyadeep-reactdashboard.netlify.app/)
