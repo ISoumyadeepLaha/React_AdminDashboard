@@ -41,6 +41,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 # Dependencies to be installed
 
+# Tailwind for style
+- View the official site [Tailwind](https://tailwindcss.com/docs/guides/create-react-app)
+
 # For icons:
 - npm i react-icons
 
